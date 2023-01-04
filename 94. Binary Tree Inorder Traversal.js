@@ -1,4 +1,4 @@
-//Submission found here: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/866708005/
+//Submitted solution can be found here: https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/866708005/
 
 // LeetCode #94. Binary Tree Inorder Traversal
 
